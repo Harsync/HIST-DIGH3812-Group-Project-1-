@@ -17,9 +17,6 @@ Private George James Giles - Tunic and Webbing
 Military Helmet 
 - https://sketchfab.com/models/be7cb2a799124a84b0804a9a9b4ae3d4
 
-Vietnam Era Combat Vehicle Crewman Helmet
-- https://sketchfab.com/models/c1516dc3d0ea420b9246334a94e5681e
-
 
 ### Vehicles
 
@@ -34,3 +31,11 @@ World War 1 Mark V Tank V2
 
 Post War City inspired from "The Last of Us"
 - https://sketchfab.com/models/30b694d1a4074855a1116a15a0f75731
+
+WW1 Stick Grenade
+- https://sketchfab.com/models/be33e84e234841a68176acaf9b642389
+- Much like what might be seen at the war museum, here is a 3D model of a grenade used during WW1. 
+
+MP-18 Submachine Gun WW1
+- MP-18 Submachine Gun WW1
+- Thought of as one of the most deadly weapons in WW1, the MP-18 was a prototype submachine gun that would've been battling the fire rates of german MGs. 
