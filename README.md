@@ -4,11 +4,6 @@ Our goal for this assignment is to analyze the history of war and remixing it th
 
 
 ### Soldier's Uniforms
-Common Era Soldier Uniform
-- https://sketchfab.com/models/e5b1dd1601e84d0bac940664b47ec2b6\
-
-The fictional character in the ‘Once Upon a War Time’ mobile app (WWI Australian Digger)
-- https://sketchfab.com/models/00c10289eed94eeeb79f7519e865e5ef
 
 Private George James Giles - Tunic and Webbing
 - https://sketchfab.com/models/1717a8ce161b41bdaaecac0d9d9f21d1
@@ -25,5 +20,7 @@ Merkava Tank
 World War 1 Mark V Tank V2
 https://sketchfab.com/models/2f224c120b474b08a2aedc445c154102
 
+Soviet Tank
+- https://sketchfab.com/models/f5e7a2d411024dc688347df27ad4caef
 
 ### Weapons and artefects
