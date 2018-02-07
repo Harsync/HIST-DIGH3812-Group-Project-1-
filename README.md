@@ -40,3 +40,5 @@ World War 1 Mark V Tank V2
 
 Post War City inspired from "The Last of Us"
 - https://sketchfab.com/models/30b694d1a4074855a1116a15a0f75731
+MP-18 Submachine Gun WW1
+ - https://sketchfab.com/models/86d89a53ca204354a362dae4865c7f70
