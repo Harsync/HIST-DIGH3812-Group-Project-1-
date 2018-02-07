@@ -43,3 +43,7 @@ Post War City inspired from "The Last of Us"
 
 MP-18 Submachine Gun WW1
  - https://sketchfab.com/models/86d89a53ca204354a362dae4865c7f70
+ 
+ Australian Submachine Gun
+ - https://sketchfab.com/models/46287a5406be45d69d83d54e24cdef87
+ 
