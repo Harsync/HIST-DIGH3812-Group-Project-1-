@@ -29,5 +29,5 @@ World War 1 Mark V Tank V2
 
 ### Weapons and artefects
 
-Post War City
+Post War City inspired from "The Last of Us"
 - https://sketchfab.com/models/30b694d1a4074855a1116a15a0f75731
