@@ -17,7 +17,8 @@ Private George James Giles - Tunic and Webbing
 Military Helmet 
 - https://sketchfab.com/models/be7cb2a799124a84b0804a9a9b4ae3d4
 
-Video Game 
+Video Game Ranger Helmet
+- https://sketchfab.com/models/d560df7100624818873330d8e15dd292
 
 Vietnam Era Combat Vehicle Crewman Helmet
 - https://sketchfab.com/models/c1516dc3d0ea420b9246334a94e5681e
